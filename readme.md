@@ -61,3 +61,17 @@ Detect the measures or detect a property of the environment, or changes to a pro
 
 	aggresive deceleration = 5 m/s^2
 	comfortable deceleration = 2 m/s^2
+	
+	
+
+#### Software Architecture:
+
+Environment Perception
+
+Environment Mapping
+
+Moting Planning
+
+Controller
+
+System Supervisor
