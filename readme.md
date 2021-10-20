@@ -50,8 +50,14 @@ Detect the measures or detect a property of the environment, or changes to a pro
 				lidar(number_of_beams, points_per_second, rotation_rate, field_of_view)solid state lidar
 				Radar(robust object detection and relative speed estimation, comparison(range, field-of-view, position-speed accuracy))
 				ultrasonic-short range all weather distance measure, low cost(range, cost, field of view)
+				
 	proprioceptive: internal
 				Gnss/IMU-global positioning management system()	
 				wheel odometry- Tracks wheel velocities and orientation(speed accuracy, position drift)
 
 
+
+#### Hardware Configuration:
+
+	aggresive deceleration = 5 m/s^2
+	comfortable deceleration = 2 m/s^2
