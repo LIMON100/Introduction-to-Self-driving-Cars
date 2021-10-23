@@ -91,8 +91,6 @@ System Supervisor
 
 #### Moting Planning
 
-![](https://github.com/LIMON100/Introduction-to-Self-driving-Cars/blob/master/images/sa.jpg)
-
 #### Controller
 
 ![](https://github.com/LIMON100/Introduction-to-Self-driving-Cars/blob/master/images/vehicle_controller.PNG?raw=true)
