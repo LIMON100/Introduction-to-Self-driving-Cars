@@ -100,3 +100,11 @@ System Supervisor
 
 ![](https://github.com/LIMON100/Introduction-to-Self-driving-Cars/blob/master/images/system_supervisor.PNG?raw=true)
 
+
+### Safety Framework:
+
+#### Generic safety framework:
+ 	Fault trees, FMEA, HAZOP
+
+#### Autonomous safety framwork:
+	Functional safety, safety of intended functionality
