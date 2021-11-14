@@ -113,11 +113,13 @@ System Supervisor
 	
 ### Lateral Vehicle control:
 
-	Geometric Controllers
+#### Geometric Controllers
+
 		pure pursuit(carrot following)
 		Stanley
 
-	Dynamic Controllers
+#### Dynamic Controllers
+
 		MPC control
 		Other control system(sliding, )
 
