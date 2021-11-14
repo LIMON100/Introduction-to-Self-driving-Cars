@@ -115,11 +115,15 @@ System Supervisor
 
 #### Geometric Controllers
 
-		pure pursuit(carrot following)
-		Stanley
+	pure pursuit(carrot following)
+	Stanley
 
 #### Dynamic Controllers
 
-		MPC control
-		Other control system(sliding, )
+	MPC control
+	Other control system(sliding)
+	
+#### Pure pursuit:
+
+Pure pursuit method consists of geometrically calculating the trajectory curvature. Connect the center of rear axle location to a target point on the path ahead of the vehicle
 
