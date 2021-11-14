@@ -108,3 +108,16 @@ System Supervisor
 
 #### Autonomous safety framwork:
 	Functional safety, safety of intended functionality
+	
+	
+	
+### Lateral Vehicle control:
+
+	Geometric Controllers
+		pure pursuit(carrot following)
+		Stanley
+
+	Dynamic Controllers
+		MPC control
+		Other control system(sliding, )
+
