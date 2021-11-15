@@ -127,3 +127,9 @@ System Supervisor
 
 Pure pursuit method consists of geometrically calculating the trajectory curvature. Connect the center of rear axle location to a target point on the path ahead of the vehicle
 
+
+#### Lateral vehicle control
+
+Geometric lateral control
+
+Advanced Steering control - MPC
